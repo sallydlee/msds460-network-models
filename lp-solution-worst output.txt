@@ -1,0 +1,16 @@
+Describe product: 20.0 hours, Cost: $4000.00
+Develop marketing strategy: 40.0 hours, Cost: $8000.00
+Design brochure: 50.0 hours, Cost: $10000.00
+Requirements analysis: 50.0 hours, Cost: $25000.00
+Software design: 100.0 hours, Cost: $50000.00
+System design: 120.0 hours, Cost: $72000.00
+Coding: 200.0 hours, Cost: $140000.00
+Write documentation: 60.0 hours, Cost: $18000.00
+Unit testing: 80.0 hours, Cost: $32000.00
+System testing: 110.0 hours, Cost: $55000.00
+Package deliverables: 50.0 hours, Cost: $10000.00
+Survey potential market: 40.0 hours, Cost: $8000.00
+Develop pricing plan: 50.0 hours, Cost: $10000.00
+Develop implementation plan: 60.0 hours, Cost: $24000.00
+Write client proposal: 50.0 hours, Cost: $10000.00
+Total Minimum Cost: $476000.00
